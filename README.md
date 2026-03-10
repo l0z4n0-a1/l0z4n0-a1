@@ -1,20 +1,6 @@
-```
-          _________
-         /\   ·    \
-        /  \ ·  ·   \
-       / ·  \   ·    \
-      /______\_________\
-      \   ·  /\   ·    /
-       \ ·  /  \ ◉ ·  /
-        \  / ·  \    /
-         \/______\__/
+## Full-Stack AI Architect. 🧙‍♂️
 
-       [ l 0 z 4 n 0 ]
-```
-
-### João Lozano
-
-Full-Stack AI Architect. I design, build and operate cognitive systems
+I design, build and operate cognitive systems
 that make entire operations 1000x smarter.
 
 Not prompts. Not automations. Cognitive architectures where
