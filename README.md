@@ -17,24 +17,28 @@
 Full-Stack AI Architect. I design, build and operate cognitive systems
 that make entire operations 1000x smarter.
 
-Not prompts. Not automations. A full operating system called **Life-OS**
-with 150+ AI agents that handle strategy, copywriting, design, distribution,
-and quality control. I make the decisions. They execute.
+Not prompts. Not automations. Cognitive architectures where
+AI doesn't assist. It operates.
 
 One person. One system. Zero employees.
 
 ```
-┌─[ LIFE-OS ]────────────────────────────────────────────────┐
+┌─[ CURRENT PROJECT ]────────────────────────────────────────┐
 │                                                            │
-│  150+ agents        Organized into 21 specialized squads   │
-│  4 engines          SENSE · THINK · MAKE · SHIP            │
-│  3 interfaces       Desktop · Telegram · Dashboard         │
-│  1 operator         Me.                                    │
+│  Life-OS (in development, not yet public)                  │
+│                                                            │
+│  An AI operating system for solo operators.                │
+│  150+ specialized agents organized into 21 squads          │
+│  across 4 engines. Strategy, production, distribution,     │
+│  quality control. All orchestrated autonomously.           │
 │                                                            │
 │  SENSE  ──►  THINK  ──►  MAKE  ──►  SHIP                  │
 │  (research)  (strategy)  (produce)  (distribute)           │
 │    ▲                                    │                  │
 │    └──────────── MEASURE ───────────────┘                  │
+│                                                            │
+│  Parts of this system will be open-sourced as              │
+│  standalone tools. Follow to stay updated.                 │
 │                                                            │
 └────────────────────────────────────────────────────────────┘
 ```
@@ -55,13 +59,14 @@ That shift changed everything.
 ┌─[ WHAT YOU'LL FIND HERE ]──────────────────────────────────┐
 │                                                            │
 │  Cognitive          Multi-agent architectures where         │
-│  architectures      AI doesn't assist. It operates.        │
+│  architectures      multiple AI perspectives dialogue      │
+│                     structurally to solve problems.         │
 │                                                            │
 │  Design systems     Brand as code. Color, type, spacing    │
 │                     extracted into tokens and rules.        │
 │                                                            │
-│  Open frameworks    The parts of Life-OS I release         │
-│                     as standalone tools.                    │
+│  AI frameworks      Tools and systems extracted from       │
+│                     Life-OS, released as open-source.       │
 │                                                            │
 └────────────────────────────────────────────────────────────┘
 ```
