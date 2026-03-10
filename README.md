@@ -14,66 +14,60 @@
 
 ### João Gabriel Lozano
 
-One-person business, AI-native from the ground up.
+I run my entire business with AI systems I architected from scratch.
 
-I design and build **cognitive systems** where AI agents don't just execute tasks.
-They think, route, decide, produce, and self-correct as a single organism.
+Not prompts. Not automations. A full operating system called **Life-OS**
+with 150+ AI agents that handle strategy, copywriting, design, distribution,
+and quality control. I make the decisions. They execute.
 
-My main system is **Life-OS**: 150+ specialized agents organized into 21 squads
-across 4 engines. One operator. Zero manual orchestration.
-
-Everything here is built on one thesis:
-
-> AI didn't automate my work. It taught me how to think better.
+One person. One system. Zero employees.
 
 ```
-┌─[ WHAT I BUILD ]───────────────────────────────────────────┐
+┌─[ LIFE-OS ]────────────────────────────────────────────────┐
 │                                                            │
-│  Life-OS           AI operating system for solo            │
-│                    operators. Strategy, production,         │
-│                    distribution, quality control.           │
-│                    All orchestrated by agents.              │
-│                                                            │
-│  Multi-Agent       Systems where multiple AI               │
-│  Architectures     perspectives reason together.           │
-│                    Not prompts. Architectures.              │
-│                                                            │
-│  Design Systems    Brand as code. Color theory,            │
-│                    typography, spacing. Extracted           │
-│                    into tokens, not chosen by feel.         │
-│                                                            │
-└────────────────────────────────────────────────────────────┘
-```
-
-```
-┌─[ HOW LIFE-OS WORKS ]─────────────────────────────────────┐
+│  150+ agents        Organized into 21 specialized squads   │
+│  4 engines          SENSE · THINK · MAKE · SHIP            │
+│  3 interfaces       Desktop · Telegram · Dashboard         │
+│  1 operator         Me.                                    │
 │                                                            │
 │  SENSE  ──►  THINK  ──►  MAKE  ──►  SHIP                  │
-│  (intel)     (strategy)  (produce)  (distribute)           │
+│  (research)  (strategy)  (produce)  (distribute)           │
 │    ▲                                    │                  │
 │    └──────────── MEASURE ───────────────┘                  │
 │                                                            │
-│  Every cycle, the system gets smarter.                     │
-│  Compounding cognition, not compounding tasks.             │
+└────────────────────────────────────────────────────────────┘
+```
+
+### What I actually do
+
+I design how AI thinks. Not what it says. How it reasons about
+problems, routes decisions to the right specialist, and produces
+output that no single prompt would generate.
+
+10 years in digital marketing. Design since age 12. Growth engineering
+at scale. Then I stopped using AI as a tool and started building
+AI as infrastructure.
+
+That shift changed everything.
+
+```
+┌─[ WHAT YOU'LL FIND HERE ]──────────────────────────────────┐
+│                                                            │
+│  AI systems         Multi-agent architectures that         │
+│                     reason, not just respond.              │
+│                                                            │
+│  Design systems     Brand as code. Color, type, spacing    │
+│                     extracted into tokens and rules.        │
+│                                                            │
+│  Open frameworks    The parts of Life-OS I release         │
+│                     as standalone tools.                    │
 │                                                            │
 └────────────────────────────────────────────────────────────┘
 ```
 
-### Background
+### The thesis
 
-10+ years in digital marketing. Design since age 12. Growth engineering,
-product launches, funnels, email systems, conversion architecture.
-
-Then AI changed how I think about all of it.
-
-2,500+ conversations with AI. Mapped, analyzed, turned into frameworks.
-That process became Life-OS. The system I use to run my entire business.
-
-Now I build in public and open-source the systems that work.
-
-```
-·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·
-```
+> AI didn't automate my work. It taught me how to think better.
 
 Whoever masters language will master the technology.
 
