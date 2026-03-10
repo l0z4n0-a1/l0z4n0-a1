@@ -1,77 +1,115 @@
 ```
-         _________
-        /\   ·    \
-       /  \ ·  ·   \         ██╗      ██████╗ ███████╗██╗  ██╗███╗   ██╗ ██████╗
-      / ·  \   ·    \        ██║     ██╔═████╗╚══███╔╝██║  ██║████╗  ██║██╔═████╗
-     /______\_________\       ██║     ██║██╔██║  ███╔╝ ███████║██╔██╗ ██║██║██╔██║
-     \   ·  /\   ·    /      ██║     ████╔╝██║ ███╔╝  ╚════██║██║╚██╗██║████╔╝██║
-      \ ·  /  \ ◉ ·  /       ███████╗╚██████╔╝███████╗     ██║██║ ╚████║╚██████╔╝
-       \  / ·  \    /        ╚══════╝ ╚═════╝ ╚══════╝     ╚═╝╚═╝  ╚═══╝ ╚═════╝
-        \/______\__/
-                              cognitive architect · AI systems · São Paulo, BR
+    ___
+   /\  \      l 0 z 4 n 0
+  /  \  \     ─────────────
+ /____\__\    navigating the
+ \  ◉/\  /    latent space
+  \ /  \/
+   \/
 ```
 
----
+### João Lozano
 
-### `$ cat thesis.md`
+I run a one-person business powered entirely by AI systems I built myself.
 
-> AI didn't automate my work — it taught me how to think better.
+Not AI tools. Not ChatGPT wrappers. **Cognitive architectures** where 150+ specialized
+agents think, decide, create, and ship as a single organism.
 
-I design systems where AI thinks, not just executes. Not chatbots. Not wrappers.
-Cognitive architectures — multi-agent organisms that sense, decide, create, and ship.
-
-Currently operating **Life-OS**: 150+ specialized agents orchestrated as a single organism.
-One operator. One brain. Zero manual orchestration.
-
----
-
-### `$ cat stack.md`
+I call it **Life-OS**.
 
 ```
-domain                what it means
-─────────────────────────────────────────────────────────
-cognitive systems     multi-agent orchestration, latent space manipulation,
-                      systems that get smarter every cycle
-
-marketing (10yr)      growth engineering, launch architecture, funnels,
-                      email that made R$100K in a single day
-
-design systems        brand DNA extraction, atomic design, type theory,
-                      color as narrative — not decoration
-
-build-in-public       the process IS the product IS the content
+┌─[ WHAT I BUILD ]───────────────────────────────────────────┐
+│                                                            │
+│  Life-OS        AI operating system. 150+ agents,          │
+│                 21 squads, 4 engines. One operator.         │
+│                                                            │
+│  Multi-Agent    Systems where multiple AI perspectives     │
+│  Frameworks     dialogue structurally to produce output    │
+│                 no single prompt would generate.           │
+│                                                            │
+│  Design         Brand DNA extraction, color theory,        │
+│  Systems        typography as system, not decoration.      │
+│                                                            │
+│  Growth         10 years of digital marketing.             │
+│  Engineering    Launches, funnels, email that made         │
+│                 R$100K in a single day.                    │
+│                                                            │
+└────────────────────────────────────────────────────────────┘
 ```
 
----
+```
+┌─[ HOW IT WORKS ]───────────────────────────────────────────┐
+│                                                            │
+│  SENSE  ──►  THINK  ──►  MAKE  ──►  SHIP                  │
+│  (see)       (decide)    (build)    (distribute)           │
+│    ▲                                    │                  │
+│    └──────────── MEASURE ───────────────┘                  │
+│                                                            │
+│  One person with the right system is more dangerous        │
+│  than a company with 50 employees.                         │
+│                                                            │
+└────────────────────────────────────────────────────────────┘
+```
 
-### `$ cat signal.md`
+### What I believe
+
+AI didn't automate my work. It taught me how to think better.
+
+Whoever masters language will master the technology. Not code. Language.
+The ability to think clearly, ask the right questions, and architect
+systems that reason about problems the way you would.
+
+I don't teach "how to use ChatGPT." I build systems where AI thinks.
 
 ```
-  SENSE  →  THINK  →  MAKE  →  SHIP
-   (see)    (decide)   (build)  (distribute)
-     ↑                              |
-     └──────── MEASURE ─────────────┘
+·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·
 ```
 
-One person with the right system is more dangerous than a company with 50 employees.
-Not because the person is better. Because the system eliminates friction between thought and execution.
+### The intersection
 
----
+```
+  Marketing (10yr)  ×  AI Systems Architecture
+          ×                    ×
+    Design Systems    ×    Psychology
+          ×                    ×
+       Poetry/Art     ×    Philosophy
+```
 
-### `$ cat philosophy.md`
+Nobody in the market combines freestyle rap, 10 years of digital launches,
+multi-agent AI architecture, and depth in psychology and philosophy.
 
-- **Restraint is power** — if you can remove it without losing function, remove it
-- **Darkness as canvas** — void is not absence, it's where signal gains meaning
-- **Frameworks, not scripts** — adaptable thinking over rigid processes
-- **Depth as identity** — layers that only those paying attention will catch
-- **Ship v1, then iterate** — none of this is permanent
+That intersection is the brand. That intersection is unreplicable.
 
----
+```
+·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·
+```
 
-### `$ cat connect.md`
+### Background
 
-[![Instagram](https://img.shields.io/badge/@iadozer0-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/iadozer0)
-[![LinkedIn](https://img.shields.io/badge/João_Lozano-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/joaogabriel-lozano)
+```
+10+ years     Digital marketing. Design since age 12.
+              Growth at Phooto (e-commerce R$24M → R$36M/yr).
+              Head of Growth at Academia Lendária.
 
-<sub>Founder @ **AIdeas Lab** — AI-native cognitive systems.</sub>
-<sub>Whoever masters language will master the technology.</sub>
+2,500+        Conversations with AI mapped and analyzed.
+              The AI itself called me "Cognitive Architect"
+              after analyzing the patterns.
+
+540+          Comments on a single post. 10x more engagement
+              than anyone else in the community.
+
+150+          AI agents. Built, tested, operating.
+              Not theoretical. Running.
+```
+
+```
+·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·
+```
+
+<sub>
+
+**Founder @ AIdeas Lab** · São Paulo, Brazil
+
+[![Instagram](https://img.shields.io/badge/@iadozer0-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/iadozer0) [![LinkedIn](https://img.shields.io/badge/João_Lozano-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/joaogabriel-lozano)
+
+</sub>
