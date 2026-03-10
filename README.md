@@ -12,7 +12,7 @@
        [ l 0 z 4 n 0 ]
 ```
 
-### João Lozano
+### João Gabriel Lozano
 
 One-person business, AI-native from the ground up.
 
