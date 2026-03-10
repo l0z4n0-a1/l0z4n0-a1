@@ -58,15 +58,25 @@ That shift changed everything.
 ```
 ┌─[ WHAT YOU'LL FIND HERE ]──────────────────────────────────┐
 │                                                            │
-│  Cognitive          Multi-agent architectures where         │
-│  architectures      multiple AI perspectives dialogue      │
-│                     structurally to solve problems.         │
+│  Multi-agent        Orchestration frameworks, agent        │
+│  systems            communication protocols, cognitive     │
+│                     architectures you can fork and run.    │
 │                                                            │
-│  Design systems     Brand as code. Color, type, spacing    │
-│                     extracted into tokens and rules.        │
+│  AI-native          End-to-end tools built on AI from      │
+│  tools              day one. Content atomizers, brand       │
+│                     DNA extractors, intelligence systems.   │
 │                                                            │
-│  AI frameworks      Tools and systems extracted from       │
-│                     Life-OS, released as open-source.       │
+│  Design systems     Full design-as-code. Color theory,     │
+│                     typography, spacing, components.        │
+│                     Tokens and rules, not Figma files.      │
+│                                                            │
+│  Marketing          Launch architectures, funnel systems,  │
+│  frameworks         copywriting frameworks, email engines.  │
+│                     10 years of marketing turned into code. │
+│                                                            │
+│  Prompt             Cognitive prompt architectures.         │
+│  engineering        Not "tips." Structural frameworks       │
+│                     for how to make AI think in layers.     │
 │                                                            │
 └────────────────────────────────────────────────────────────┘
 ```
