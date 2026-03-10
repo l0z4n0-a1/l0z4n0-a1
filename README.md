@@ -1,106 +1,81 @@
 ```
-    ___
-   /\  \      l 0 z 4 n 0
-  /  \  \     ─────────────
- /____\__\    navigating the
- \  ◉/\  /    latent space
-  \ /  \/
-   \/
+          _________
+         /\   ·    \
+        /  \ ·  ·   \
+       / ·  \   ·    \
+      /______\_________\
+      \   ·  /\   ·    /
+       \ ·  /  \ ◉ ·  /
+        \  / ·  \    /
+         \/______\__/
+
+       [ l 0 z 4 n 0 ]
 ```
 
 ### João Lozano
 
-I run a one-person business powered entirely by AI systems I built myself.
+One-person business, AI-native from the ground up.
 
-Not AI tools. Not ChatGPT wrappers. **Cognitive architectures** where 150+ specialized
-agents think, decide, create, and ship as a single organism.
+I design and build **cognitive systems** where AI agents don't just execute tasks.
+They think, route, decide, produce, and self-correct as a single organism.
 
-I call it **Life-OS**.
+My main system is **Life-OS**: 150+ specialized agents organized into 21 squads
+across 4 engines. One operator. Zero manual orchestration.
+
+Everything here is built on one thesis:
+
+> AI didn't automate my work. It taught me how to think better.
 
 ```
 ┌─[ WHAT I BUILD ]───────────────────────────────────────────┐
 │                                                            │
-│  Life-OS        AI operating system. 150+ agents,          │
-│                 21 squads, 4 engines. One operator.         │
+│  Life-OS           AI operating system for solo            │
+│                    operators. Strategy, production,         │
+│                    distribution, quality control.           │
+│                    All orchestrated by agents.              │
 │                                                            │
-│  Multi-Agent    Systems where multiple AI perspectives     │
-│  Frameworks     dialogue structurally to produce output    │
-│                 no single prompt would generate.           │
+│  Multi-Agent       Systems where multiple AI               │
+│  Architectures     perspectives reason together.           │
+│                    Not prompts. Architectures.              │
 │                                                            │
-│  Design         Brand DNA extraction, color theory,        │
-│  Systems        typography as system, not decoration.      │
-│                                                            │
-│  Growth         10 years of digital marketing.             │
-│  Engineering    Launches, funnels, email that made         │
-│                 R$100K in a single day.                    │
+│  Design Systems    Brand as code. Color theory,            │
+│                    typography, spacing. Extracted           │
+│                    into tokens, not chosen by feel.         │
 │                                                            │
 └────────────────────────────────────────────────────────────┘
 ```
 
 ```
-┌─[ HOW IT WORKS ]───────────────────────────────────────────┐
+┌─[ HOW LIFE-OS WORKS ]─────────────────────────────────────┐
 │                                                            │
 │  SENSE  ──►  THINK  ──►  MAKE  ──►  SHIP                  │
-│  (see)       (decide)    (build)    (distribute)           │
+│  (intel)     (strategy)  (produce)  (distribute)           │
 │    ▲                                    │                  │
 │    └──────────── MEASURE ───────────────┘                  │
 │                                                            │
-│  One person with the right system is more dangerous        │
-│  than a company with 50 employees.                         │
+│  Every cycle, the system gets smarter.                     │
+│  Compounding cognition, not compounding tasks.             │
 │                                                            │
 └────────────────────────────────────────────────────────────┘
-```
-
-### What I believe
-
-AI didn't automate my work. It taught me how to think better.
-
-Whoever masters language will master the technology. Not code. Language.
-The ability to think clearly, ask the right questions, and architect
-systems that reason about problems the way you would.
-
-I don't teach "how to use ChatGPT." I build systems where AI thinks.
-
-```
-·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·
-```
-
-### The intersection
-
-```
-  Marketing (10yr)  ×  AI Systems Architecture
-          ×                    ×
-    Design Systems    ×    Psychology
-          ×                    ×
-       Poetry/Art     ×    Philosophy
-```
-
-Nobody in the market combines freestyle rap, 10 years of digital launches,
-multi-agent AI architecture, and depth in psychology and philosophy.
-
-That intersection is the brand. That intersection is unreplicable.
-
-```
-·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·
 ```
 
 ### Background
 
+10+ years in digital marketing. Design since age 12. Growth engineering,
+product launches, funnels, email systems, conversion architecture.
+
+Then AI changed how I think about all of it.
+
+2,500+ conversations with AI. Mapped, analyzed, turned into frameworks.
+That process became Life-OS. The system I use to run my entire business.
+
+Now I build in public and open-source the systems that work.
+
 ```
-10+ years     Digital marketing. Design since age 12.
-              Growth at Phooto (e-commerce R$24M → R$36M/yr).
-              Head of Growth at Academia Lendária.
-
-2,500+        Conversations with AI mapped and analyzed.
-              The AI itself called me "Cognitive Architect"
-              after analyzing the patterns.
-
-540+          Comments on a single post. 10x more engagement
-              than anyone else in the community.
-
-150+          AI agents. Built, tested, operating.
-              Not theoretical. Running.
+·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·
 ```
+
+Whoever masters language will master the technology.
 
 ```
 ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·
