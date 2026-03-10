@@ -12,9 +12,10 @@
        [ l 0 z 4 n 0 ]
 ```
 
-### João Gabriel Lozano
+### João Lozano
 
-I run my entire business with AI systems I architected from scratch.
+Full-Stack AI Architect. I design, build and operate cognitive systems
+that make entire operations 1000x smarter.
 
 Not prompts. Not automations. A full operating system called **Life-OS**
 with 150+ AI agents that handle strategy, copywriting, design, distribution,
@@ -40,7 +41,7 @@ One person. One system. Zero employees.
 
 ### What I actually do
 
-I design how AI thinks. Not what it says. How it reasons about
+I architect how AI thinks. Not what it says. How it reasons about
 problems, routes decisions to the right specialist, and produces
 output that no single prompt would generate.
 
@@ -53,8 +54,8 @@ That shift changed everything.
 ```
 ┌─[ WHAT YOU'LL FIND HERE ]──────────────────────────────────┐
 │                                                            │
-│  AI systems         Multi-agent architectures that         │
-│                     reason, not just respond.              │
+│  Cognitive          Multi-agent architectures where         │
+│  architectures      AI doesn't assist. It operates.        │
 │                                                            │
 │  Design systems     Brand as code. Color, type, spacing    │
 │                     extracted into tokens and rules.        │
