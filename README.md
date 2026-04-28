@@ -1,116 +1,55 @@
-## Full-Stack AI Architect. 🧙‍♂️
+## Full-Stack AI Architect 🧙‍♂️
 
-I design, build and operate cognitive systems
-that make entire operations 1000x smarter.
+architect of latent cognition.
+i don't write code. i write the constitution code obeys.
 
-Not prompts. Not automations. Cognitive architectures where
-AI doesn't assist. It operates.
-
-One person. One system. Zero employees.
-
-```
-┌─[ CURRENT PROJECT ]────────────────────────────────────────┐
-│                                                            │
-│  Life-OS (in development, not yet public)                  │
-│                                                            │
-│  An AI operating system for solo operators.                │
-│  150+ specialized agents organized into 21 squads          │
-│  across 4 engines. Strategy, production, distribution,     │
-│  quality control. All orchestrated autonomously.           │
-│                                                            │
-│  SENSE  ──►  THINK  ──►  MAKE  ──►  SHIP                  │
-│  (research)  (strategy)  (produce)  (distribute)           │
-│    ▲                                    │                  │
-│    └──────────── MEASURE ───────────────┘                  │
-│                                                            │
-│  Parts of this system are being open-sourced as            │
-│  standalone tools. See pinned repos below.                 │
-│                                                            │
-└────────────────────────────────────────────────────────────┘
-```
-
-### What I actually do
-
-I architect how AI thinks. Not what it says. How it reasons about
-problems, routes decisions to the right specialist, and produces
-output that no single prompt would generate.
-
-10 years in digital marketing. Design since age 12. Growth engineering
-at scale. Then I stopped using AI as a tool and started building
-AI as infrastructure.
-
-That shift changed everything.
-
-```
-┌─[ THE RECEIPT ]────────────────────────────────────────────┐
-│                                                            │
-│  90 days of Claude Code, audited via local telemetry:      │
-│                                                            │
-│    353 sessions    176,839 turns    17.62B tokens          │
-│    92.4% cache hit rate                                    │
-│    $0.0011 cost per turn (Max plan)                        │
-│    $0.2138 cost per turn (API equivalent)                  │
-│    189x leverage on a $200/mo plan                         │
-│                                                            │
-│  Numbers above are real, logged, and reproducible by       │
-│  anyone running the open hooks linked below.               │
-│                                                            │
-└────────────────────────────────────────────────────────────┘
-```
-
-### What you'll find here
-
-```
-┌─[ PUBLIC REPOS ]───────────────────────────────────────────┐
-│                                                            │
-│  cognitive-claude    The meta-architecture behind a        │
-│                      high-leverage Claude Code setup.      │
-│                      Hooks, telemetry, governance, math.   │
-│                      → github.com/l0z4n0-a1/cognitive-claude
-│                                                            │
-│  Multi-agent         Orchestration frameworks, agent       │
-│  systems             communication protocols, cognitive    │
-│                      architectures you can fork and run.   │
-│                      (rolling out from Life-OS)            │
-│                                                            │
-│  Design systems      Full design-as-code. Color theory,    │
-│                      typography, spacing, components.      │
-│                      Tokens and rules, not Figma files.    │
-│                                                            │
-│  Marketing           Launch architectures, funnel systems, │
-│  frameworks          copywriting frameworks, email engines.│
-│                      10 years of marketing turned into code│
-│                                                            │
-└────────────────────────────────────────────────────────────┘
-```
-
-### What I refuse
-
-```
-┌─[ NOT THIS ]───────────────────────────────────────────────┐
-│                                                            │
-│  No prompt packs. No "how to use ChatGPT" courses.         │
-│  No coaching. No certification.                            │
-│  No production until receipts hold.                        │
-│  No claim without telemetry behind it.                     │
-│                                                            │
-└────────────────────────────────────────────────────────────┘
-```
-
-### The thesis
-
-> AI didn't automate my work. It taught me how to think better.
-
-Whoever masters language will master the technology.
+one operator. dozens of systems. zero employees.
 
 ```
 ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·
 ```
 
-<sub>
+> AI didn't automate my work. it taught me to think better.
 
-**Founder @ AIdeas Lab** · São Paulo, Brazil
+most chase the answer. i'm after the better question.
+when you articulate intent with depth, you create gravity
+in the model — language bends the latent space.
 
-[![Instagram](https://img.shields.io/badge/@iadozer0-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/iadozer0) [![LinkedIn](https://img.shields.io/badge/João_Lozano-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/joaogabriel-lozano)
+```
+imagine a probabilistic cube that collapses every time you prompt.
+each word is a key to a dimension you couldn't see.
+```
 
-</sub>
+```
+┌─[ measured, not claimed ]──────────────────────────────────┐
+│                                                            │
+│   90 days of Claude Code, telemetry-audited:               │
+│                                                            │
+│      353 sessions    176,839 turns    17.62B tokens        │
+│      92.4% cache hit rate                                  │
+│      $37,801 of API equivalent on $600 of plan             │
+│                                                            │
+│   setup is open. math is derived. receipts auditable.      │
+│                                                            │
+└────────────────────────────────────────────────────────────┘
+```
+
+### what's open
+
+```
+cognitive-claude    the meta-architecture behind the setup above.
+                    installed by the very tool it optimizes.
+                    github.com/l0z4n0-a1/cognitive-claude
+
+myClaude            marketplace + studio for the Claude Code
+                    ecosystem. soft launch.
+
+AIdeas Lab          the lab. where the systems incubate.
+                    more shipping from here, soon.
+```
+
+```
+·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·
+```
+
+<sub>São Paulo · single operator</sub>
