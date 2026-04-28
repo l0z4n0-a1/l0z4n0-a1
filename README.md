@@ -23,8 +23,8 @@ One person. One system. Zero employees.
 │    ▲                                    │                  │
 │    └──────────── MEASURE ───────────────┘                  │
 │                                                            │
-│  Parts of this system will be open-sourced as              │
-│  standalone tools. Follow to stay updated.                 │
+│  Parts of this system are being open-sourced as            │
+│  standalone tools. See pinned repos below.                 │
 │                                                            │
 └────────────────────────────────────────────────────────────┘
 ```
@@ -42,27 +42,57 @@ AI as infrastructure.
 That shift changed everything.
 
 ```
-┌─[ WHAT YOU'LL FIND HERE ]──────────────────────────────────┐
+┌─[ THE RECEIPT ]────────────────────────────────────────────┐
 │                                                            │
-│  Multi-agent        Orchestration frameworks, agent        │
-│  systems            communication protocols, cognitive     │
-│                     architectures you can fork and run.    │
+│  90 days of Claude Code, audited via local telemetry:      │
 │                                                            │
-│  AI-native          End-to-end tools built on AI from      │
-│  tools              day one. Content atomizers, brand       │
-│                     DNA extractors, intelligence systems.   │
+│    353 sessions    176,839 turns    17.62B tokens          │
+│    92.4% cache hit rate                                    │
+│    $0.0011 cost per turn (Max plan)                        │
+│    $0.2138 cost per turn (API equivalent)                  │
+│    189x leverage on a $200/mo plan                         │
 │                                                            │
-│  Design systems     Full design-as-code. Color theory,     │
-│                     typography, spacing, components.        │
-│                     Tokens and rules, not Figma files.      │
+│  Numbers above are real, logged, and reproducible by       │
+│  anyone running the open hooks linked below.               │
 │                                                            │
-│  Marketing          Launch architectures, funnel systems,  │
-│  frameworks         copywriting frameworks, email engines.  │
-│                     10 years of marketing turned into code. │
+└────────────────────────────────────────────────────────────┘
+```
+
+### What you'll find here
+
+```
+┌─[ PUBLIC REPOS ]───────────────────────────────────────────┐
 │                                                            │
-│  Prompt             Cognitive prompt architectures.         │
-│  engineering        Not "tips." Structural frameworks       │
-│                     for how to make AI think in layers.     │
+│  cognitive-claude    The meta-architecture behind a        │
+│                      high-leverage Claude Code setup.      │
+│                      Hooks, telemetry, governance, math.   │
+│                      → github.com/l0z4n0-a1/cognitive-claude
+│                                                            │
+│  Multi-agent         Orchestration frameworks, agent       │
+│  systems             communication protocols, cognitive    │
+│                      architectures you can fork and run.   │
+│                      (rolling out from Life-OS)            │
+│                                                            │
+│  Design systems      Full design-as-code. Color theory,    │
+│                      typography, spacing, components.      │
+│                      Tokens and rules, not Figma files.    │
+│                                                            │
+│  Marketing           Launch architectures, funnel systems, │
+│  frameworks          copywriting frameworks, email engines.│
+│                      10 years of marketing turned into code│
+│                                                            │
+└────────────────────────────────────────────────────────────┘
+```
+
+### What I refuse
+
+```
+┌─[ NOT THIS ]───────────────────────────────────────────────┐
+│                                                            │
+│  No prompt packs. No "how to use ChatGPT" courses.         │
+│  No coaching. No certification.                            │
+│  No production until receipts hold.                        │
+│  No claim without telemetry behind it.                     │
 │                                                            │
 └────────────────────────────────────────────────────────────┘
 ```
