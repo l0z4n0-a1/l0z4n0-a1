@@ -23,13 +23,14 @@ each word is a key to a dimension you couldn't see.
 ```
 ┌─[ measured, not claimed ]──────────────────────────────────┐
 │                                                            │
-│   90 days of Claude Code, telemetry-audited:               │
+│   90 days of Claude Code, instrument-audited:              │
 │                                                            │
-│      353 sessions    176,839 turns    17.62B tokens        │
-│      92.4% cache hit rate                                  │
-│      $37,801 of API equivalent on $600 of plan             │
+│      987 sessions    199,133 turns    19.46B tokens        │
+│      91.74% cache hit rate                                 │
+│      $42,148 of API equivalent on $500 of plan             │
+│      ~84× ratio (largely plan-vs-API arbitrage; see repo)  │
 │                                                            │
-│   setup is open. math is derived. receipts auditable.      │
+│   setup is open. math is derived. receipts reproducible.   │
 │                                                            │
 └────────────────────────────────────────────────────────────┘
 ```
