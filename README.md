@@ -1,24 +1,15 @@
-## Full-Stack AI Architect 🧙‍♂️
+## joão lozano · applied ai engineer
 
-architect of latent cognition.
-i don't write code. i write the constitution code obeys.
-
-one operator. dozens of systems. zero employees.
+i build with codex and claude code every day, and i teach people to do the same.
+são paulo · founder @ aideas lab · [joao-lozano.vercel.app](https://joao-lozano.vercel.app)
 
 ```
 ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·
 ```
 
-> AI didn't automate my work. it taught me to think better.
+> ai didn't automate my work. it taught me to think better.
 
 most chase the answer. i'm after the better question.
-when you articulate intent with depth, you create gravity
-in the model — language bends the latent space.
-
-```
-imagine a probabilistic cube that collapses every time you prompt.
-each word is a key to a dimension you couldn't see.
-```
 
 ```
 ┌─[ measured, not claimed ]──────────────────────────────────┐
@@ -38,19 +29,35 @@ each word is a key to a dimension you couldn't see.
 ### what's open
 
 ```
-cognitive-claude    the meta-architecture behind the setup above.
-                    installed by the very tool it optimizes.
-                    github.com/l0z4n0-a1/cognitive-claude
+codex-field-harness   i make my codex setup fail before i trust it.
+                      frozen evals, gates that are proven to fail,
+                      run receipts, a 60-min team workshop.
+                      github.com/l0z4n0-a1/codex-field-harness
 
-myClaude            marketplace + studio for the Claude Code
-                    ecosystem. soft launch.
+cognitive-claude      the setup behind the numbers above.
+                      installed by the very tool it optimizes.
+                      github.com/l0z4n0-a1/cognitive-claude
 
-AIdeas Lab          the lab. where the systems incubate.
-                    more shipping from here, soon.
+skill-anthropic-      audits agent instructions against 189
+grade-optimizer       cited rules. quote + source for every finding.
+```
+
+### what's shipped
+
+```
+sintética             chatgpt app (apps sdk) + codex plugin.
+                      21 mcp tools, 14 skills. paid cohort in < 1 month.
+                      sintetica.app
+
+myclaude.sh           marketplace for coding-agent skills.
+                      stripe connect payouts, npm cli.
+
+hara os               runs 2 photography studios every day.
+                      leads → shoots → delivery → pix.
 ```
 
 ```
 ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·
 ```
 
-<sub>São Paulo · single operator</sub>
+<sub>são paulo · pt / en · if it's not in production, it doesn't count</sub>
